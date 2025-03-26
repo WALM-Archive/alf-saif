@@ -61,6 +61,9 @@ except:
    blockedstickerblock = 0
    continuer = 0
 
+   admin2=int()
+   admin3=int()
+
    utc = 4
 
    hoster = 'noname-hoster'
